@@ -1,0 +1,10 @@
+Flask>=2.2
+pymongo>=4.3
+flask-login>=0.6
+python-dotenv>=1.0
+werkzeug>=2.2
+# plus your existing ML deps:
+tensorflow
+opencv-python
+numpy
+Pillow
